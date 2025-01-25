@@ -23,13 +23,13 @@ The PhoneBook Application is a simple, user-friendly program designed as part of
 To run or modify the PhoneBook Application, ensure the following:
 
 1. **Java Development Kit (JDK)** installed (Version 8 or later).
-2. **Android Studio** (for Android implementation) or any Java IDE.
+2.  Any Java IDE.
 3. Basic understanding of Java and object-oriented programming.
 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/PhoneBook.git
+   git clone https://github.com/DrSkyRitik-15/PhoneBook.git
    ```
 2. Navigate to the project directory:
    ```bash
